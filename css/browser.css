@@ -1,0 +1,14 @@
+/*Chrome,Safari*/
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+.latest-product-detail .owl-theme .owl-controls .owl-buttons div .lnr {
+    vertical-align: top;
+    margin-top: -7px;
+}  
+.product-price > span::after {
+    top: 8px;
+}
+}
+/*Only Safari*/
+.list-instagram a {
+  (;margin-left: -4px;);
+}
