@@ -261,6 +261,7 @@ div.table > div {
   max-width: none;
   opacity: 0;
   width: auto;
+  height: 500px;
 }
 .group-navi .owl-buttons {
   position: absolute;
@@ -3379,6 +3380,7 @@ body .scroll-top {
   transition: all 0.5s ease-out 0s;
   -webkit-transition: all 0.5s ease-out 0s;
   width: 100%;
+  height: 400px;
 }
 .zoom-image:hover img {
   -webkit-transform: scale(1.15);
